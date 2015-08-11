@@ -39,5 +39,7 @@ public class TestActivity extends Activity {
 		getMenuInflater().inflate(R.menu.test, menu);
 		return true;
 	}
+	
+	//
 
 }
