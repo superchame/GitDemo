@@ -40,6 +40,6 @@ public class TestActivity extends Activity {
 		return true;
 	}
 	
-	//
+	//我擦我擦我擦查查
 
 }
